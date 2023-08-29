@@ -1,0 +1,326 @@
+/*----header-section--*/
+.header {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.header-section {
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 230px;
+}
+
+.header-title {
+    width: 708px;
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.header-description {
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.primary-btn {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    border: none;
+    background: #E55473;
+
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.flower-pic {
+    width: 635px;
+    height: 800px;
+    margin-right: 240px;
+}
+
+/*--feature section*/
+.feature {
+    text-align: center;
+    margin-top: 178px;
+}
+
+.feature-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.feature-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    margin: 0px auto;
+
+}
+
+/*--Display Flower--*/
+.Display-flower {
+    width: 1920px;
+    display: flex;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.pink {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    gap: 20px;
+    margin-left: 240px;
+}
+
+.pink-img {
+    width: 310px;
+    height: 428px;
+    margin: 110px 76px 0px 75px;
+}
+
+.past {
+    width: 464px;
+    height: 538px;
+    margin-left: 24px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.past-img {
+    width: 370px;
+    height: 370px;
+    margin: 110px 76px 51px 75px;
+
+}
+
+.green {
+    width: 464px;
+    height: 538px;
+    margin-left: 24px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    ;
+}
+
+.green-img {
+    width: 314px;
+    height: 471px;
+    margin: 67px 76px 0px 75px;
+}
+
+.image-name {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+
+/*--support section--*/
+.customer-handel {
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 150px auto;
+}
+
+
+.support {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding-left: 175px;
+    padding-right: 175px;
+
+}
+
+.support-img {
+    width: 88px;
+    height: 88px;
+    margin-top: 86px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+
+}
+
+.support-title {
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+    justify-content: center;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+
+}
+
+/*sign-up-section--*/
+span {
+    color: #E55473;
+}
+
+.hot-deals {
+    display: flex;
+    justify-content: space-between;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05)
+}
+
+.sign-up {
+    margin: 230px 215px 0px 420px;
+}
+
+.sign-up-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.sign-up-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    width: 594px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+#sign-up-btn {
+    margin-left: 208px;
+    margin-bottom: 162px;
+}
+
+.hot-img {
+    margin: 100px 429px 100px 0px;
+}
+
+/*--instagram section--*/
+.instagram {
+    text-align: center;
+}
+
+.instagram-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.instagram-description {
+    text-align: center;
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    margin: 0px auto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.flower-pic-section {
+    margin-left: 500px;
+    display: flex;
+    padding: 30px;
+    width: 1440px;
+
+
+}
+
+.flower-dec-pic {
+    width: 320px;
+    height: 396px;
+    padding: 24px;
+
+
+}
+
+.leatest-deal {
+    background-image: url("Flower\ Asset/Rectangle 9.png");
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    margin: 128px auto;
+}
+
+.leatest-deal-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 122px;
+}
+
+.ld-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+#input-mail {
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    margin: 48px 16px 121px 287px;
+}
+
+footer {
+
+    height: 449px;
+    background: #111010;
+}
+
+.fotter-title {
+    color: #FFF;
+    font-size: 48px;
+    text-align: center;
+    font-weight: 800;
+    padding-top: 128px;
+
+}
+
+.dec {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 625px;
+    padding-left: 950px;
+
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
