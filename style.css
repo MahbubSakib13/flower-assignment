@@ -315,8 +315,7 @@ footer {
     font-weight: 400;
     line-height: 30px;
     width: 625px;
-    padding-left: auto;
-    padding-right: auto;
+margin: 0px auto;
 
 }
 
