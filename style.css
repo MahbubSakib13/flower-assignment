@@ -244,7 +244,7 @@ span {
 }
 
 .flower-pic-section {
-   margin: auto;
+    margin: auto;
     justify-content: space-around;
     display: flex;
     padding: 30px;
@@ -324,4 +324,21 @@ footer {
     text-align: center;
     font-size: 16px;
     font-weight: 400;
+}
+
+
+
+.advice {
+    text-align: center;
+}
+
+.gardening-description {
+    width: 594px;
+    text-align: ;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 10px auto;
 }
